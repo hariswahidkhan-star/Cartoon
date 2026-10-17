@@ -1,3 +1,5 @@
 # Stitched rough cuts exceed GitHub 100MB file limit; regenerate from scene clips
 renders/*_roughcut.mp4
 renders/**/*_roughcut.mp4
+renders/certuvo_storm_branded_16x9.mp4
+renders/certuvo_storm_branded_9x16.mp4
